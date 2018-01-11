@@ -1,2 +1,2 @@
 # WSP-TE15-Ismail
-Det här är min Webserverprogrammerings repository.
+Jag heter Ismail Güven, går i NTI-Gymnasiet Södertälje.
